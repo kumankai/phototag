@@ -1,3 +1,3 @@
 # phototag
 
-A Raspberry PI API that tags photos using AI.
+A Raspberry PI that tags photos using an AI API.
